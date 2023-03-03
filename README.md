@@ -22,7 +22,7 @@ Why did I create this dataset? The **arms trade** continues to be a **significan
 # Dataset History
 2023-03-03 - Dataset is created (26,725 days after temporal coverage start date).
 
-[GitHub Repository](https://github.com/justin-2028/Arms-Imports-Per-Country-1950-2020) - The same data but on GitHub.
+[Kaggle Dataset](https://www.kaggle.com/datasets/justin2028/arms-imports-per-country) - The same data but on Kaggle.
 
 # Code Starter
 [Link to Notebook]()
