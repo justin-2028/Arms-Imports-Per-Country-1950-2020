@@ -25,4 +25,4 @@ Why did I create this dataset? The **arms trade** continues to be a **significan
 [Kaggle Dataset](https://www.kaggle.com/datasets/justin2028/arms-imports-per-country) - The same data but on Kaggle.
 
 # Code Starter
-[Link to Notebook]()
+[Link to Notebook](https://www.kaggle.com/code/justin2028/arms-imports-per-country-1950-2020-code-starter/notebook)
